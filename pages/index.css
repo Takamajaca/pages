@@ -1,3 +1,16 @@
-body {
+body 
+{
     background: rgb(107, 167, 162);
+}
+h1{
+    color: aliceblue;
+}
+.micolor {
+    color: blue;
+}
+.fuente{
+    font-family: 'Times New Roman', Times, serif;
+}
+.p1{
+    color: aqua;
 }
