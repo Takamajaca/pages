@@ -7,6 +7,43 @@ body
 {
     background: rgb(107, 167, 162);
 }
+.header{
+    color: rgb(93, 95, 192);
+    height: 80px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+.margen{
+    width: 80vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo{
+    text-transform: uppercase;
+}
+.logo a{
+    text-decoration: white;
+}
+
+.navbar ul {
+    text-align: right;
+}
+
+.navbar ul li{
+    display: inline;
+}
+
+.navbar ul a{
+    text-decoration: none;
+    display: inline;
+    padding: 10px;
+    color: rgb(93, 95, 192);  
+}
+
 h1{
     color: aliceblue;
 }
